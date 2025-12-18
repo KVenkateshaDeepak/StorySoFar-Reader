@@ -32,7 +32,7 @@ Reading a complex novel often leads to forgotten characters or plot points. Aski
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/KVenkateshaDeepak/StorySoFar-Reader
+   git clone https://github.com/KVenkateshaDeepak/StorySoFar-Reader.git
    cd storysofar-reader
    ```
 
