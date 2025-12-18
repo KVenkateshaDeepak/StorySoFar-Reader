@@ -1,0 +1,5 @@
+{
+  "name": "StorySoFar Reader",
+  "description": "An intelligent reading assistant that evolves with you. Upload PDFs or EPUBs, read page-by-page, and ask questions without fear of spoilers. The AI only knows what you've read.",
+  "requestFramePermissions": []
+}
