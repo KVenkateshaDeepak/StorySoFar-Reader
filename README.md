@@ -1,4 +1,4 @@
-# 📖 StorySoFar Reader
+# StorySoFar Reader
 
 > **An AI-powered reading assistant that reads with you, page by page, without spoiling the ending.**
 
